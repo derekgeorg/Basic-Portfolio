@@ -3,12 +3,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
     background: url('https://www.toptal.com/designers/subtlepatterns/patterns/absurdidad.png');
+
 }
 .wrapper {
     width: 100%;
     margin: 0 auto;
     background-color: white;
     margin-bottom: 50px;
+    border-bottom: .1rem solid lightgray;
 }
 header {
     float: left;
@@ -29,12 +31,12 @@ nav {padding: 25px;
 }
 .main_box {
     background-color: white;
-    padding: 10px;
+    padding: 20px;
     width: 960px;
     margin: auto;
     margin-bottom: 50px;
 }
-h1 {
+h1 {padding: px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
 }
@@ -50,13 +52,110 @@ p {
 footer {
     font-size: 15px;
     padding: 20px;
-    color: #777777;
+    color: lightgray;
     text-align: center;
     background-color: #666666;
-    border-top-color: #4aaa5;
-    border-top: 10px;
+    border-top: 8px solid #4aaaa5;;
     height: 20px;
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+a {
+    text-decoration: none;
+    color: #777777;
+}
+input {
+    width: 955px;
+}
+
+textarea {
+    width: 955px;
+    height: 200px;
+}
+.image1_text {
+    text-align: center;
+    background: #4aaaa5;
+    width: 200px;
+    height: 25px;
+    color: white;
+    position: absolute;
+    margin-top: 100px;
+    padding-top: 5px;
+}
+.image2_text {
+    
+    text-align: center;
+    background: #4aaaa5;
+    width: 200px;
+    height: 25px;
+    color: white;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 220px;
+    padding-top: 5px;
+}
+.image3_text {
+    position: absolute;
+    text-align: center;
+    background: #4aaaa5;
+    width: 200px;
+    height: 25px;
+    color: white;
+    margin-top: 100px;
+    padding-top: 5px;
+}
+.image4_text {
+    position: absolute;
+    text-align: center;
+    background: #4aaaa5;
+    width: 200px;
+    height: 25px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 220px;
+    padding-top: 5px;
+}
+.image5_text {
+    position: absolute;
+    text-align: center;
+    background: #4aaaa5;
+    width: 200px;
+    height: 25px;
+    color: white;
+    margin-top: 100px;
+    padding-top: 5px;
+}
+.pictures {
+    width: 200px;
+    height: 150px;
+
+}
+.port_pics {
+    /* clear: all; */
+}
+#button {
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-size: 16px;
+    width: 100px;
+    height: 50px;
+    
+}
+.portfolio_box {
+    background-color: white;
+    padding: 20px;
+    width: 960px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.contact_box {
+    background-color: white;
+    padding: 20px;
+    width: 960px;
+    margin: auto;
+    margin-bottom: 100px;
 }
