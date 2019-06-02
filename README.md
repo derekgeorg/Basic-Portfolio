@@ -6,11 +6,11 @@ This project is my first portfolio assignment at the *UT Austin Coding Boot Camp
 
 Basic HTML and CSS coding was used to create this three page website.
 
-![about](images/about_me.png)
+![about](/assets/images/about_me.png)
 
-![Portfolio](portfolio.png)
+![Portfolio](assets/images/portfolio.png)
 
-![Contact](/images/contact.png)
+![Contact](assets/images/contact.png)
 
 
 
