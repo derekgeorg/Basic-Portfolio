@@ -1,6 +1,6 @@
 # My First Portfolio
 
-Project Link: [My First Portfolio] (https://derekgeorg.github.io/First-Portfolio/)
+[ My First Portfolio ] (https://derekgeorg.github.io/First-Portfolio/)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
