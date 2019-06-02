@@ -8,7 +8,7 @@ Basic HTML and CSS coding was used to create this three page website.
 
 ![about](images/about_me.png)
 
-![Portfolio](images/portfolio.png)
+![Portfolio](/portfolio.png)
 
 ![Contact](images/contact.png)
 
