@@ -4,7 +4,7 @@
 
 ##### Project Link: (https://derekgeorg.github.io/Basic-Portfolio/)
 
-This project was our assignment at the *UT Austin Coding Boot Camp*. 
+This project was our first assignment at the *UT Austin Coding Boot Camp*. 
 
 Basic HTML and CSS coding was used to create this three page website.
 
